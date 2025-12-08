@@ -1,6 +1,8 @@
 
 # Library Management System (Group Project)
 
+<img width="3420" height="1976" alt="image" src="https://github.com/user-attachments/assets/4f9a50f1-7513-429c-b826-9d43ff6e0d1c" />
+
 This repository contains a group project completed for our Software Engineering course.  
 The application includes a **React frontend**, **Node.js/Express backend**, and **SQLite database**, with full CRUD operations, search functionality, reporting, and a structured API layer.
 
