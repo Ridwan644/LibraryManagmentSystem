@@ -1,4 +1,6 @@
 # Library Management System
+<img width="1710" height="988" alt="Screenshot 2025-12-08 at 1 38 19 PM" src="https://github.com/user-attachments/assets/802b7ad2-603a-4dfc-80c7-a2c405538c92" />
+
 
 A comprehensive Library Management System built with React frontend and Node.js/Express backend, using SQLite for data storage.
 
